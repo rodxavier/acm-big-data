@@ -1,0 +1,14 @@
+Sources:
+- The outline of this lecture is similar to Udacity's "Introduction to Hadoop and Map Reduce" class.
+
+Image Sources:
+- http://gigaom2.files.wordpress.com/2013/06/twitter-geo-study3.png
+- http://www.privateline.com/Cellbasics/3%20cellre-uselayoutnew.gif
+- http://www.fiveminutes.eu/wp-content/uploads/2011/05/colored-logs.png
+- http://www.designvsart.com/blog/wp-content/uploads/amazon%20recommendation%20c.png
+- http://www.jcmit.com/MemoryDiskPriceGraph-2012Feb.jpg
+- http://www.carrierbid.com/wp-content/uploads/2012/02/storage-area-network.gif
+- http://classroom.synonym.com/DM-Resize/photos.demandstudios.com/getty/article/81/83/78460573.jpg%3Fw%3D600%26h%3D600%26keep_ratio%3D1
+- https://lh6.googleusercontent.com/OKFjKovibSDbZ5Q8fv9BFHGvtwdipOBh9iNuUGEvdVDGlDNZOTchuWhYNivGJDDtISwC31JYinW1z_hdcFTyNRUTrACQvF-FoZ9jY_eNR2vi16e3hyWsQ1ggig
+- http://2.bp.blogspot.com/_RBPwPeqcMdM/TFpAefzM3vI/AAAAAAAAAAs/GL0NxNh7Ceg/s1600/sm%2B(1).jpg
+- https://lh5.googleusercontent.com/IbL6_G2q018-R-HNSJ8CZClck0TxJyL5x7fkMBu1DklaZCqUlLehi7pew-rxUL8yY5iSfDtO9cWxZqYR5xjsDo7TkFfOvJg5-vhJWiJQ3XydHRXUXuEaw51qiQ
